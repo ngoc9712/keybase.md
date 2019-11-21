@@ -1,0 +1,56 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am ngoc9712 on github.
+  * I am ngocngoc1912 (https://keybase.io/ngocngoc1912) on keybase.
+  * I have a public key ASBWo8T86WvkKWKWik8Zj5voEshPdYsUBjyRESFTuPvXuQo
+
+To claim this, I am signing this object:
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012056a3c4fce96be42962968a4f198f9be812c84f758b14063c91112153b8fbd7b90a",
+      "host": "keybase.io",
+      "kid": "012056a3c4fce96be42962968a4f198f9be812c84f758b14063c91112153b8fbd7b90a",
+      "uid": "6648b761ebc5cca1f78310439442f219",
+      "username": "ngocngoc1912"
+    },
+    "merkle_root": {
+      "ctime": 1574306569,
+      "hash": "76b74286ebcf1ef1a6f6f68c99b2240f0be545e65497593fb90dd9a8d4e3e6cd16e02f28149856464c6771c84f4141be496543218846fd17fb2a11605c238834",
+      "hash_meta": "8700b86877c01ba331c88b1567ad28c3259efb5746857b7cf67b1f4823924154",
+      "seqno": 10384927
+    },
+    "service": {
+      "entropy": "OxQhl7ONYW1/tKIw9JjboR2J",
+      "name": "github",
+      "username": "ngoc9712"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574306575,
+  "expire_in": 504576000,
+  "prev": "80c34c7e635ab98fa6dfd9669dbba67ddb9472e5aa1ab1f0262faff5b9352720",
+  "seqno": 4,
+  "tag": "signature"
+}
+with the key [ASBWo8T86WvkKWKWik8Zj5voEshPdYsUBjyRESFTuPvXuQo](https://keybase.io/ngocngoc1912), yielding the signature:
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVqPE/Olr5ClilopPGY+b6BLIT3WLFAY8kREhU7j717kKp3BheWxvYWTESpcCBMQggMNMfmNauY+m39lmnbumfduUcuWqGrHwJi+v9bk1JyDEIAHpHV3QX3lNMAg4XPxzga+EOo9zrOYHysdBt3IuXOcaAgHCo3NpZ8RASZ6dgRm9dqtFTuR13WksIStb45pQmhMmn/R9GFqcFAeqeFkxMl1iCGWPAXDkboouVuO7bJOSV37siARiLno3AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAvope2Nk+j/+eMiHMwzGSFKc59FyaMs+V6Xcpvd1jsKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/ngocngoc1912
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+# look me up
+keybase id ngocngoc1912
